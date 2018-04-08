@@ -1,0 +1,10 @@
+/Users/zachary.harwood/workspace/ContactList/obj/Debug/netcoreapp2.0/ContactList.csproj.CoreCompileInputs.cache
+/Users/zachary.harwood/workspace/ContactList/obj/Debug/netcoreapp2.0/ContactList.AssemblyInfoInputs.cache
+/Users/zachary.harwood/workspace/ContactList/obj/Debug/netcoreapp2.0/ContactList.AssemblyInfo.cs
+/Users/zachary.harwood/workspace/ContactList/bin/Debug/netcoreapp2.0/ContactList.deps.json
+/Users/zachary.harwood/workspace/ContactList/bin/Debug/netcoreapp2.0/ContactList.runtimeconfig.json
+/Users/zachary.harwood/workspace/ContactList/bin/Debug/netcoreapp2.0/ContactList.runtimeconfig.dev.json
+/Users/zachary.harwood/workspace/ContactList/bin/Debug/netcoreapp2.0/ContactList.dll
+/Users/zachary.harwood/workspace/ContactList/bin/Debug/netcoreapp2.0/ContactList.pdb
+/Users/zachary.harwood/workspace/ContactList/obj/Debug/netcoreapp2.0/ContactList.dll
+/Users/zachary.harwood/workspace/ContactList/obj/Debug/netcoreapp2.0/ContactList.pdb
